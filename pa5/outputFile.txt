@@ -1,0 +1,30 @@
+Title: where'd u go
+Artist: illenium
+Genre: electronic
+Rating: 5
+
+Title: the ride
+Artist: drake
+Genre: rap
+Rating: 4
+
+Title: karma
+Artist: taylor swift
+Genre: pop
+Rating: 2
+
+Title: party rock anthem
+Artist: lmfao
+Genre: hip hop
+Rating: 1
+
+Title: i cry
+Artist: flo rida
+Genre: pop
+Rating: 5
+
+Title: castle on the hill
+Artist: ed sheeran
+Genre: pop
+Rating: 4
+
